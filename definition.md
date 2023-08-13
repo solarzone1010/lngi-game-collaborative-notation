@@ -109,7 +109,7 @@ Github, by solarzone
 ```
 1. [a#]x = "[a-1 #]"^x 10
 2. [z 0(b@)? a #]x = [z "0 (b-1 @)?"^x 1 (b @)? a-1 #]10
-3. When we have [z($ y 0/b &)a...]n, it becomes [z X<sub>n</sub> a...]10, where
+3. When we have [z($ y 0/b &)a...]n, it becomes [z Xₙ a...]10, where
    3.1. $ and & are as short as possible
    3.2. If y is empty, then X₀ = ($ (0/b)? &)
    3.3. Otherwise X₀ = ($ (y 1/b-1)? &).
